@@ -1,0 +1,13 @@
+.container{
+  flex: 1;
+  flex-direction: column;
+}
+.title{
+  font-weight: bold;
+}
+.divider{
+  padding-top: 2vh;
+}
+.list{
+  padding-left: 2vw;
+}
