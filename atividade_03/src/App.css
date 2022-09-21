@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.buttonSubmit{
+  background-color: rgb(55, 175, 18);
+  margin-top: 5vh;
+  width: 70px;
+  height: 30px;
+}
+.buttonSub{
+  background-color: tomato;
+  margin-top: 5vh;
+  width: 70px;
+  height: 30px;
+  margin-left: 2vw;
+}
+.buttonReset{
+  margin-left: 2vw;
+  margin-top: 5vh;
+  width: 70px;
+  height: 30px;
+}
